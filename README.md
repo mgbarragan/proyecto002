@@ -1,2 +1,2 @@
 # proyecto002
-hola∫
+hola
